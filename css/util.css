@@ -1,0 +1,17 @@
+.flex-all-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hover-effect-text:hover{
+    color: var(--bg-color);
+}
+.hover-effect-img:hover{
+   transform: rotateZ(2deg);
+}
+.hover-cursor:hover{
+    cursor: pointer;
+}
+.margin-t{
+   margin-top: 0.3rem;
+}
